@@ -11,9 +11,9 @@
 - Forks:
 
   *Fork 1*
-  * Link: [Fork a Repositorio de Sebastián León](https://github.com/Matistr/CurriculumVitae)
+  * Link: [Fork a Repositorio de Sasha Godoy](https://github.com/daes38/Cv-Sasha-Godoy)
   * Image:
-  <img src="./assets/images/"/>
+  <img src="./assets/img/Fork1.png"/>
 
   *Fork 2*
   * Link: [Fork a Repositorio de Alfpala](https://github.com/Matistr/Dlatam-prueba)
