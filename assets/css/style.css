@@ -1,0 +1,28 @@
+.titulo {
+    display: flex;
+    justify-content: center;
+}
+
+.pic {
+    display: flex;
+    justify-content: center;
+}
+
+.boton button:hover {
+        background-color: black;
+        color: white;
+        cursor: pointer;
+        box-shadow: 0 4px 10px rgb(255, 255, 255);
+}
+
+.pie {
+    display: flex;
+    height: 5rem;
+    background-color:#54B4D3;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.fondo {
+    background-color: rgb(66, 106, 106);
+}
