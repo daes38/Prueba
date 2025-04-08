@@ -28,6 +28,6 @@
   <img src="./assets/img/C6.png"/>
 
   *Commit 2*
-  * Link: [Commit Agregar ícono de LinkedIn en el pie de página y ajustar su tamaño](https://github.com/daes38/desafio-final/commit/eb2d3b4278f4c105a1dc5641edb3858181df8f0d)
+  * Link: [Cambio de imagen en header](https://github.com/daes38/desafio-final/commit/eb2d3b4278f4c105a1dc5641edb3858181df8f0d)
   * Image:
   <img src="./assets/img/commit2.png"/>
