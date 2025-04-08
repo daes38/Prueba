@@ -4,9 +4,9 @@
 
 - Mi cv: 
   
-  * Link: [Pagina web](https://matistr.github.io/Examen-1-DesafioLatam/index.html)
+  * Link: [Pagina web](https://daes38.github.io/Prueba/)
   * Image:
-  <img src="./assets/images/pages.jpeg"/>
+  <img src="./assets/img/C5.png"/>
 
 - Forks:
 
