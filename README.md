@@ -16,9 +16,9 @@
   <img src="./assets/img/Fork1.png"/>
 
   *Fork 2*
-  * Link: [Fork a Repositorio de Alfpala](https://github.com/Matistr/Dlatam-prueba)
+  * Link: [Fork a Repositorio de Nico Perry](https://github.com/daes38/desafio-final)
   * Image:
-  <img src="./assets/images/fork-2.png"/>
+  <img src="./assets/img/Fork2.png"/>
 
 - Commits:
    
@@ -28,6 +28,6 @@
   <img src="./assets/img/C6.png"/>
 
   *Commit 2*
-  * Link: [Commit Agregar ícono de LinkedIn en el pie de página y ajustar su tamaño](https://github.com/Matistr/Dlatam-prueba/commit/9ea67a3a47948b42d81f99e9bd1cbc657e2f8369)
+  * Link: [Commit Agregar ícono de LinkedIn en el pie de página y ajustar su tamaño](https://github.com/daes38/desafio-final/commit/eb2d3b4278f4c105a1dc5641edb3858181df8f0d)
   * Image:
-  <img src="./assets/images/commit-2.jpeg"/>
+  <img src="./assets/img/commit2.png"/>
